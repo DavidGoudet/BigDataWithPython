@@ -1,3 +1,5 @@
+#Part of a Course from Hezion Studios on Big Data: Trinity
+
 import nltk
 nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
