@@ -1,3 +1,5 @@
+#Part of a Course from Hezion Studios on Big Data: Trinity
+
 #Importamos las bibliotecas que usaremos:
 from twitterscraper import query_tweets_from_user
 import nltk

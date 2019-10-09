@@ -1,3 +1,5 @@
+#Part of a Course from Hezion Studios on Big Data: Trinity
+
 #Importamos las bibliotecas
 import tensorflow as tf
 import tensorflow_hub as hub

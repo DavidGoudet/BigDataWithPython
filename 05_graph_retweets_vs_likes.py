@@ -1,3 +1,5 @@
+#Part of a Course from Hezion Studios on Big Data: Trinity
+
 #Importamos matploblib, que nos permitirá hacer el gráfico (Funciona en Repl.it)
 import matplotlib.pyplot as plt
 from twitterscraper import query_tweets_from_user
