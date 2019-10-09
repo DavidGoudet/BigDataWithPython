@@ -33,7 +33,6 @@ image = Image.open(image).resize(IMAGE_SHAPE)
 image = np.array(image)/255.0
 image.shape
 
-
 #Hacemos la predicción, con nuestro clasificador previamente entrenado
 result = classifier.predict(image[np.newaxis, ...])
 result.shape
